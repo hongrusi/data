@@ -53,8 +53,30 @@ Machine Learning in Excel with Ivan Kitov
 ## Advaned Specilization
 Data-Driven Business Growth with Davis Balaba, Tina Huang
 A/B Testing in Python with Anastasia Kuznetsova
+Fashion Analytics with Tableau with Elitsa Kaloyanova
+AI Applications for Business Success with Horia Mărgărit
+Customer Analytics in Python with Nikolay Georgiev, Elitsa
+Credit Risk Modeling in Python with Nikolay Georgiev
+Time Series Analysis with Python with Viktor Mehandzhiyski
+Web Scraping and API Fundamentals in Python with Andrew Treadway, Nikola Pulev
+Python for Finance with Martin Ganchev, Ned Krastev
+Introduction to Business Analytics with Randy Rosseel
+Product Management for AI & Data Science with Danielle Thé
+
 
 ## Business Specialization
 
 
 # Curriculum 2: Finance
+Fundamentals of Financial Reporting with Antoniya Baltova
+Portfolio Management with Ivan Kitov
+Corporate Finance with Ivan Kitov
+Fundamentals of Financial Markets with Ivan Kitov
+Who Does What in Finance with Ned Krastev
+Accounting and Financial Statement Analysis with Ned Krastev
+Introduction to Business Analytics with Randy Rosseel
+Derivatives with Ned Krastev
+Macroeconomics with Antoniya Baltova
+Introduction to Industry and Company Analysis with Ivan Kitov
+Introduction to Equity Securities with Ivan Kitov
+Financial Ratio Analysis with Antoniya Baltova
