@@ -1,7 +1,9 @@
-banana
+FRUITS AND VEGTABLES SHOPPING LIST:
 
-organes
+* banana
 
-apples
+* organes
 
-blue berry
+* apples
+
+* blue berry
